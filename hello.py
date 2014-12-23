@@ -1,6 +1,6 @@
-def hello(user_name):
+def print_hello(user_name):
   print("Hello, %s!" % user_name)
   print(1/3)
   
-hello("world")  
+print_hello("world")  
 input()
